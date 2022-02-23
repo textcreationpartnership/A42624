@@ -1,0 +1,899 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The gentlewoman's delight in cookery containing the newest art of dressing all sorts of flesh, fowl, or fish, either roasted, boiled, baked, stewed, fryed, broyled, hasht or frigaced. Together with the true way of raising paste, and making pyes, pasties, tarts, cakes, custards, &amp;c. Also how to make all sorts of broths, caudles, syrups, jellies; and the exact way of making divers sorts of pickles, &amp;c. Likewise directions for garnishing, serving up, and setting out a table; ... To which is added, the art of preserving, conserving, and candying all sorts of fruits, flowers, buds, roots, herbs, &amp;c. With a most excellent receipt for making beautifying water to clear the face, neck, hands, &amp; whiten the skin. Very beneficial for all young gentlewomen and servant-maids. Licensed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42624</idno>
+            <idno type="STC">Wing G523EA</idno>
+            <idno type="STC">ESTC R217416</idno>
+            <idno type="EEBO-CITATION">99829083</idno>
+            <idno type="PROQUEST">99829083</idno>
+            <idno type="VID">33519</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42624)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33519)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1986:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The gentlewoman's delight in cookery containing the newest art of dressing all sorts of flesh, fowl, or fish, either roasted, boiled, baked, stewed, fryed, broyled, hasht or frigaced. Together with the true way of raising paste, and making pyes, pasties, tarts, cakes, custards, &amp;c. Also how to make all sorts of broths, caudles, syrups, jellies; and the exact way of making divers sorts of pickles, &amp;c. Likewise directions for garnishing, serving up, and setting out a table; ... To which is added, the art of preserving, conserving, and candying all sorts of fruits, flowers, buds, roots, herbs, &amp;c. With a most excellent receipt for making beautifying water to clear the face, neck, hands, &amp; whiten the skin. Very beneficial for all young gentlewomen and servant-maids. Licensed according to order.</title>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Back, on London-Bridge[,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With additional illustrated letterpress title page preceding title page on A2.</note>
+                  <note>Publication date conjectured by Wing.</note>
+                  <note>Running title reads: The compleat cook.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Imperfect; cropped at foot with some loss of print.</note>
+                  <note>Reproduction of the original in the Magdalene College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cookery --  Early works to 1800.</term>
+               <term>Home economics --  Early works to 1800.</term>
+               <term>Canning and preserving --  Early works to 1800.</term>
+               <term>Recipes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustrated_title_page">
+            <pb facs="tcp:33519:1"/>
+            <p>THE Gentlewoman's Delight IN COOKERY.</p>
+            <figure>
+               <figDesc>woodcut of kitchen and dinner scenes</figDesc>
+            </figure>
+            <p>Licenſed according to Order.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>NDON,</hi> Printed for <hi>J. Back,</hi> at the <hi>Black</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:33519:2"/>
+            <pb facs="tcp:33519:2" rendition="simple:additions"/>
+            <p>THE Gentlewoman's Delight IN Cookery: CONTAINING The neweſt Art of Dreſſing all ſorts of Fleſh, Fowl, or Fiſh, either Roaſted, Boiled, Ba<g ref="char:EOLhyphen"/>ked, Stewed, Fryed, Broyled, Haſht or Frigaced.</p>
+            <p>TOGETHER With the true way of Raiſing Paſte, and making Pyes, Paſties, Tarts, Cakes; Cuſtards, &amp;c.</p>
+            <p>Alſo how to make all ſorts of Broths, Caudles, Syrups, Jellies; and the exact way of making divers ſorts of Pickles, <hi>&amp;c.</hi>
+            </p>
+            <p>LIKEWISE Directions for Garniſhing, Serving up, and Set<g ref="char:EOLhyphen"/>ting out a Table; with Rules for Carving and Preſenting the beſt and moſt acceptable pieces, after the moſt mo<g ref="char:EOLhyphen"/>diſh way, uſed either in <hi>England</hi> or <hi>France.</hi>
+            </p>
+            <p>To which is Added, The Art of Preſerving, Conſerving, and Candy<g ref="char:EOLhyphen"/>ing all ſorts of Fruits, Flowers, Buds, Roots, Herbs, &amp;c. With a moſt excellent Receipt for making a Beautfying Water to clear the Face, Neck, Hands, &amp; whiten the Skin.</p>
+            <p>Very Beneficial for all young Gentlewomen and Servant-Maids.</p>
+            <p>Licenſed according to Order.</p>
+            <p>Printed for <hi>J. Back<g ref="char:punc">▪</g>
+               </hi> on <hi>London-Bridge</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:33519:3"/>
+            <head>THE PREFACE TO THE READER</head>
+            <p>SEeing Things of this Nature are n<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> held pleaſant but profitable, by ina<g ref="char:EOLhyphen"/>bling the Ingenious Reader, to put them i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> practice, I conceived it not amiſs to Col<g ref="char:EOLhyphen"/>lect ſuch Curioſities as are not vulgarly known; the which, if rightly obſerve<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in their reſpective Places and Offices muſt, in all probability, Redound to th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Advantage and Accomplïſhment of eithe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sex. Wherefore not longer to detain yo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with a <hi>Preface,</hi> I proceed to what is non<g ref="char:EOLhyphen"/>material. And firſt of <hi>Cookery,</hi> ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> neceſſary to be known, in all its Parts Ways and Kinds, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33519:3" rendition="simple:additions"/>
+            <head>THE Gentlewoman's Delight IN Cookery.</head>
+            <div type="part">
+               <head>The <hi>Engliſh</hi> and <hi>French</hi> ways in dreſſing Fleſh in the beſt, modiſh and advantage<g ref="char:EOLhyphen"/>ous manner: with their proper Sawces and Garniſh, <hi>&amp;c.</hi>
+               </head>
+               <div type="section">
+                  <head>A Haunch of Veniſon to Roaſt.</head>
+                  <p>TAke a Haunch of Veniſon, indifferently fat; ſeaſon it with beaten Cloves, Mace, and a little Nutmeg and Salt; and having ſtuck it over with Cloves or ſmall ſprigs of Roſemary, lay it to the fire: baſte it with Butter and Claret-wine well beaten together; and when it is enough,</p>
+                  <p>Take Red-wine Vinegar, ſweet Butter, grated Ginger, a little Cinamon and Roſe-water: boil them up to a thickneſs with ſome crumbs of Ve<g ref="char:EOLhyphen"/>niſon, and diſh it up, Garniſhing your diſh with ſlices of Lemons and Oranges.</p>
+               </div>
+               <div type="section">
+                  <pb facs="tcp:33519:4"/>
+                  <head>A Fillet of Veal, to dreſs the beſt way.</head>
+                  <p>Take your Fillet ſomewhat large, open it the fleſhy part with a broad pointed knife; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> having Winter-ſavory, Parſley, Thyme, Suet a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Spinnage ſhread ſmall, ſtuff it well, and cloſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the places, lay it to a gentle fire, baſting it w<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Butter; and when it is Roaſted, diſh it up wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Juyce of Oranges and ſweet Butter, beat<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> up with a little fine Flower; and let your Garniſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be as for the former.</p>
+               </div>
+               <div type="section">
+                  <head>A Leg of Veal and Bacon, to boil the beſt way.</head>
+                  <p>Take a good Leg of Veal and good midling Bacon, and with the Lard of the Bacon, La<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the Veal; intermixing it with rows of Lemo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> or Citron-peel: then truſs it as round as may be, and rub it or ſprinkle it with Pepper an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Salt: boil it in a convenient quantity of water putting it in when the water is warm, as alſo your other Bacon: then take them up, ſlit the Bacon, and place it on each ſide the Veal<g ref="char:punc">▪</g> and for the Sawce, bruiſe Sorrel, Parſley and Spinnage, with Sugar, Verjuice and a little Roſe-water, and ſerve the diſh, garniſhed with pickled Barbaries, Parſley or Violet-leaves.</p>
+               </div>
+               <div type="section">
+                  <head>A Hare, to dreſs after the <hi>French</hi> Faſhion.</head>
+                  <p>Take a Hare of two years old, caſe her, leaving on the Ears, and lay her an hour or two in warm water; then rub her over with Pepper and Sal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;
+<pb facs="tcp:33519:4" rendition="simple:additions"/> make then a Pudding of grated Bread, Sugar, Cinamon, chop'd Sage and White-wine, with ſome Suet and Butter, ſewing or ſcuring it up in the Belly of the Hare: lay her to a gentle fire, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſte her with Butter, and dredge her over with fine Bread; and when enough, take out the Pud<g ref="char:EOLhyphen"/>ding, divide it on each ſide the Diſh, and ſerve her up with Verjuice, Butter and Cinamon, well mix'd or beaten together, garniſhing the diſh with blades of Mace and ſlices of Lemon.</p>
+               </div>
+               <div type="section">
+                  <head>A Leg of Mutton to Roaſt with Oyſters.</head>
+                  <p>Take a fair Leg of Mutton, open it with a broad-pointed knife in the fleſhy part, ſundry times; then ſtuff in as many Oyſters when par<g ref="char:EOLhyphen"/>boiled as you can conveniently, and ſtick the outward part with Cloves; and ſo gently roaſt it till enough; then ſerve it up with Anchovey<g ref="char:EOLhyphen"/>ſawce and ſtewed Oyſters; garniſhed with Flow<g ref="char:EOLhyphen"/>ers or Leaves: and ſo a ſhoulder of Mutton may be uſed.</p>
+               </div>
+               <div type="section">
+                  <head>A Pig, to Roaſt the moſt approved way.</head>
+                  <p>Take your Pig clean ſcalded, opened and well dryed; which done with dryed Sage, a gra<g ref="char:EOLhyphen"/>ted Cruſt, and the Gravy of Mutton, make a pud<g ref="char:EOLhyphen"/>ding, put it into his Belly, ſcuring it up, keeping him before a gentle fire, continually baſting with Salt and Water, till it begin to be criſp; and then let it continue till the Eyes fall out, which is a ſign of it's being roaſted; wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reupon, take<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb facs="tcp:33519:5"/> beaten Cinamon, Sugar, Roſe-water, Cu<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> grated Bread, and the pureſt of the Gravey, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> chopped Sage and Canary: make them in<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Sawce, and ſerve up the Pig divided or c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> with the two under Jaws and Ears; garniſh<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> with whole Spice and Lemon Peels.</p>
+               </div>
+               <div type="section">
+                  <head>A Coney, to Boil the beſt way.</head>
+                  <p>Take your Coney, Brace or Truſs him th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> he may lye couched in your Pot or Pan; La<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> him with Bacon and Lemon Peel; and when boil<g ref="char:EOLhyphen"/>ed, ſerve him up whole, with white Bread, Sippit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Verjuice, Sugar, Butter and grated Nutmeg garniſhing with Parſley.</p>
+               </div>
+               <div type="section">
+                  <head>Veniſon, how to make of Kid, <hi>&amp;c.</hi>
+                  </head>
+                  <p>Take the Haunch of a fat Kid, open it in the convenient places; ſtuff in Salt-peter Salt, a good Quantity; then lay it in warm water till the Salt be well ſoaked into it: then dry it, ſpit it, and when Roaſted, ſerve it up with Claret, Anchovey, Pepper and a little Butter; and it will not be di<g ref="char:EOLhyphen"/>ſtinguiſhed from Veniſon; the Garniſh muſt be Spices.</p>
+               </div>
+               <div type="section">
+                  <head>To ſtew Lamb or Mutton, the ſavoureſt way.</head>
+                  <p>Take your Meat, ſeaſon it a little with Salt and Pepper; put in convenient ſlices into as much Broth of the like Meat, as will cover it; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hen add a little Pepper, a blade or two of Mace, a ſmall quantity of Sugar, and ſome ſprigs of Roſe<g ref="char:EOLhyphen"/>mary;
+<pb facs="tcp:33519:5" rendition="simple:additions"/> then ſome ſlices of freſh Butter, and the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yce of three or four Oranges; and all being all ſtewed, ſerve the Meat up with the Broth <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Sippits; Garniſhing with Marigolds, Parſley <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Sugar: and in this manner is Beef ſtewed the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> way.</p>
+               </div>
+               <div type="section">
+                  <head>To ſtew Veal very ſavourly.</head>
+                  <p>Take a Leg of Veal or any fleſhy part, ſlice thin and ſprinkle it over with Flower and gra<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d Nutmeg; lay it in your ſtew pan: adding <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>utter and White-wine, as much as may cover <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>; and then the Yolks of three or four Eggs, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ell beaten with Verjuice: laſtly ſweet Herbs, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t ſmall with Sugar and Currans: All which be<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>g well ſtewed, ſerve them up with Sippits; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arniſhed with Green.</p>
+               </div>
+               <div type="section">
+                  <head>A Fricacy of Rabits, Veal, or the like, to make the beſt way.</head>
+                  <p>Take your Meat cut into convenient pieces, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eat and flat them with a Roaling-pin, and ſprink<g ref="char:EOLhyphen"/>ed with the Juyce of Lemon, grated Nutmeg <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd a little Flower, with a ſmall ſcattering of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>weet Herbs well ſhread; then with the yolks <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f beaten Eggs and Verjuice, cover the pieces <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> order, and ſerve them up with Sugar, Butter <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd Cinamon; garniſhed with green Leaves <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd in this manner, any Fricacy is made.</p>
+               </div>
+               <div type="section">
+                  <pb facs="tcp:33519:6"/>
+                  <head>To Haſh Mutton, Beef, Lamb, <hi>&amp;c.</hi> the <hi>French</hi> w<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </head>
+                  <p>Take your Meat half roaſted or boiled, ſlice in convenient ſlices, and lay it into a ſtew-<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> with ſome Butter and the broth of the Me<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> as much as will cover it; ſtrew thereon ſo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Pepper and a little Salt, ſlice in a Nutmeg and Shalot or two, with a little Claret-wine, if yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> think convenient or otherwiſe, the Juyce <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> a Lemon; then rub your diſh with a ſhalo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> laying therein Sippits of White-bread, and ſer<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> up the Meat; Garniſhing with ſprinkling<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Sugar and Parſley.</p>
+               </div>
+               <div type="section">
+                  <head>To Fry Chickens, Pigeons, or any Fowl, <hi>&amp;c.</hi> the beſt w<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </head>
+                  <p>Take your Fowl, being young, well pull<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and drawn; ſlit them and ſprinkle them, aft<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> you have well flatted them, by beating the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> with Pepper and Salt; lay them in the pan when the Butter is already hot and melted; then ſprink<g ref="char:EOLhyphen"/>led ſhread ſweet herbs, and obſerve to turn then in due time: and for theſe the Sawces in genera<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> are either Butter, Juyce of Lemon, and Suga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> with Cinamon, or an Anchovey with a Shalot, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſweet Herbs with Pepper boiled together; an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Garniſhing generally things that are green.</p>
+               </div>
+               <div type="section">
+                  <head>To Boil Chickens, Pigeons, or Wild Fowl, <hi>&amp;c.</hi>
+                  </head>
+                  <p>Boil them a little while in water &amp; ſalt till the ski<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> is tender; then ſhift them into Mutton-broth<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> adding ſome ſprigs of Roſemary and other ſwee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb facs="tcp:33519:6" rendition="simple:additions"/> Herbs; then make Sawce of Parſley and Sage, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oiled and ſhread together, with Sugar, Cina<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on, Verjuice, Pepper and a ſmall piece of But<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er; Garniſhing with Violet-leaves, whole Mace.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o Stew any Tame or Wild Fowl, after the beſt way.</head>
+                  <p>The Fowl being Pulled and Drawn; divide <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> into four equal quarters; ſprinkle them with <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> little Salt and Ginger, and lay them in the Pan <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ell buttered: as alſo in the Gravy of ſome choice Meat: cover the Pan, till you perceive them ſoft; add the Juyce of one or two Oranges, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd a ſprinkling of ſweet Herbs; after that, take them up, and place the Quarters even in the diſh; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Sawce being the liquid part upon Sippits, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Garniſh Barberries and Parſley.</p>
+               </div>
+               <div type="section">
+                  <head>To Roaſt a Woodcock, Pheaſant or Plover.</head>
+                  <p>Take the Bird well pull'd and drawn: Lard them with ſmall ſlips of Bacon on the breaſt; and with Flower through a Drudger, raiſe up a Froth; then being Roaſted, take the Gravey, with as much Claret-wine, a little Pepper, and the Juyce of a Lemon, and boil with the Heads, Necks or Gizzards; and ſo ſerve it up with green Garniſh with white Bread Toaſts or without them.</p>
+               </div>
+               <div type="section">
+                  <head>To Roaſt any Hen, Pullet or Capon.</head>
+                  <p>Take Fowl, well pulled and draw'd, truſs i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> up and place it on your Spit, baſting it moderate<g ref="char:EOLhyphen"/>ly with Butter, and raiſing the froth with Flower;
+<pb facs="tcp:33519:7" rendition="simple:additions"/> then take the Gravey, ſome Pepper, a ſlice of Nutmeg and the Juyce of a Lemon; it into Sawce and ſerve it up; the Garniſh ſlices of Lemon, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>A Fore-loin of Pork, the beſt way to dreſs.</head>
+                  <p>Take Pork, being laid before a gentle fire baſte it firſt with Salt and Water; then ſcorch and run it up to a criſpneſs; which done, ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> your ſawce of green Sorrel, Sage, grated Brea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Muſtard, the yolk of an Egg, Sugar, and the Leav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of Parſley, made ſomewhat thin with White-wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and ſerve it up with ſlices of Lemon and Nut<g ref="char:EOLhyphen"/>meg, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>A Turkey how to Roaſt the <hi>French</hi> way.</head>
+                  <p>Take a good Turkey, pull and draw him well place him upon your Spit, and having finger the hairs, baſte him with a little White-wine, after that with Butter; then raiſe the Froth with Flow<g ref="char:EOLhyphen"/>er, and continue it till he be enough: then take the Gravey from the Fat, add to it Pepper a Sha<g ref="char:EOLhyphen"/>lot, and a ſmall quantity of Claret, putting t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> them the Neck, and the Liver, well minced and ſo ſerve him up garniſhed with Lemon.</p>
+               </div>
+               <div type="section">
+                  <head>A Gooſe the <hi>French</hi> way to Roast.</head>
+                  <p>Take a fat Gooſe, ſtuff a Cruſt of Bread into her Belly, lay her to the fire and baſte her with Salt and Water a while; then ſuffer her to baſte her<g ref="char:EOLhyphen"/>ſelf: after ſhe is enough, take her up and prepa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb facs="tcp:33519:7" rendition="simple:additions"/> 
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>wce of Muſtard, Sugar, white Currans and the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>p of Apples well mixed and ſoftned with a piece of freſh Butter, and ſerve it up in Sawcers.</p>
+               </div>
+               <div type="section">
+                  <head>To Broyle or Toaſt any Fowl the beſt way.</head>
+                  <p>Slit your Fowl and beat it flat with a Roaling<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n; then ſprinkle it with a little Salt and Pep<g ref="char:EOLhyphen"/>per; lay it upon a Crid-iron, or hold it before <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he fire with often turning till it be enough; then <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> your diſh with a Shalot. Take an Anchovey, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ome Pepper, and Claret, and make Sawce thereof, with a little piece of Butter and the Juyce of a Lemon; and ſerve it up with green Garniſh: or for want of that, ſlices of Lemon.</p>
+               </div>
+               <div type="section">
+                  <head>To Fry Salmon, the <hi>French way.</hi>
+                  </head>
+                  <p>Take a Chine of Salmon, cut it into conveni<g ref="char:EOLhyphen"/>ent pieces, and when the Butter is very hot in the Pan, put it in, ſuffering it to remain there till criſp; then take the Juyce of a Lemon, an An<g ref="char:EOLhyphen"/>chovey and a piece of freſh Butter, and make Sawce, ſerving it up with green Garniſh.</p>
+               </div>
+               <div type="section">
+                  <head>To Stew a Pike.</head>
+                  <p>Take a large Pike, waſh the blood clean out and flat it, cover it then with Claret in the ſtew pan, and let it come to boiling by degrees; then add ſome blades of Mace and a little Cinamon, with the Juyce of a Lemon, and a good piece of
+<pb facs="tcp:33519:8" rendition="simple:additions"/> Butter with Salt enough to ſeaſon it, and ſo d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> it up with ſippits, ſprinkled with ſweet Herb</p>
+               </div>
+               <div type="section">
+                  <head>To Roaſt a Salmon the beſt way.</head>
+                  <p>Take a Salmon, or any convenient part of h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> as the Jole or Rand, ſeaſoned with Nutmeg, Sa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and Pepper; and ſtick at the ſame time the o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſide with a few Cloves and ſome ſmall ſtips Roſemary: faſten it to the Spit, and at firſt ba<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> it with Claret alone; then with Claret and Butter and with what falls from it, together with a Anchovey and the Juyce of a Lemon, make the Sawce and ſerve it up with Olives and Sampher.</p>
+               </div>
+               <div type="section">
+                  <head>To Fry Oyſters, an approved way.</head>
+                  <p>Take the largeſt, with the Liquor, and fry them therein, till they are ſomewhat tender then pour out the Liquor and put in Butter with the diſſolved Liquor of an Anchovey ſome Verjuice; and ſo fry them till they ſeen criſpiſh, then ſerve them up with Pepper, Butter and the Juyce of a Lemon: and in the like man<g ref="char:EOLhyphen"/>ner may Oyſter be ſtewed.</p>
+               </div>
+               <div type="section">
+                  <pb facs="tcp:33519:8" rendition="simple:additions"/>
+                  <head>To Boil a Mullet, Tench, Trout or Carp.</head>
+                  <p>Take the Fiſh well drawed, ſupplying the va<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ncy of the Belly with ſweet Herbs; boil them <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> water a little ſeaſoned with Salt: and when <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ough, take Butter, grated Bread, the Juyce of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>range, Cinamon and Currans; make them into Sawce with the Herbs, and ſerve them up with <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>een Garniſh.</p>
+                  <p>The Sawce for Eels, Flounders, Place, Roach<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, Barbles and the like, are Butter, Vinegar, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Juyce of Lemon, Anchovey, the Liquor of Pickled Oyſters, and the Garniſh green.</p>
+               </div>
+               <div type="section">
+                  <head>Salads and their Seaſons.</head>
+                  <p>As for Salads, they are various, according to the ſeaſon; as Corn, Salads and Pickles with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ndive and <hi>French</hi> Grand Salads in Winter; and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ettice, Spinage, Purſlain and Salads of Flowers, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Summer. Wherefore there being no certain Rule of this kind but the Management, according to the humour and liking of the Party, I ſhall ſubmit it to the diſcretion of the Ingenious Cook, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o from Salads according to the Seaſon or Quali<g ref="char:EOLhyphen"/>ty of the Meats, for the beſt digeſtion; of which <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ey are prepared. And ſo proceed to <hi>Paſtry,</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> uſefull and neceſſary tobe known.</p>
+               </div>
+               <div type="section">
+                  <pb facs="tcp:33519:9" rendition="simple:additions"/>
+                  <head>Things to be obſerved in Raiſing of Paſte, <hi>&amp;c.</hi>
+                  </head>
+                  <p>In Raiſing of Paſte, obſerve that your flo<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> or ſtuff be ſweet and good; and that in raiſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the ſides, aſcend taper-wiſe; that they be kn<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> ed and moulded to a ſufficient firieneſs and ſti<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> neſs, not to fall or give way by jetting out <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> cracking, whereby the materials or fillings ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be ſpoiled or loſt, either by taking too much A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> or running about in the Oven: Wherefore i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> making them up, an eſpecial care muſt be had that all parts are framed alike, and to be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> with Liquor tolerably hot, that ſo the Paſte th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be more firmly ſetled, eſpecially if deſigned <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> large Pyes: the faſhion of which, though in th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> kind there are divers Forms may be ſutable t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the fancy of the maker. And having ſaid th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> much of the Out-ſide, I ſhall proceed to ſpea<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of the In-ſide, which is the moſt material.</p>
+               </div>
+               <div type="section">
+                  <head>AVeniſon-Paſty, how to make it.</head>
+                  <p>Take a ſide of new Veniſon, bone it and <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> ſon it well with Pepper and Salt: beat it wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> your Roaler into the form you deſign it, and clo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> up the lid or over-bearing, having firſt put in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> conſiderable quantity of Butter to prevent d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y<g ref="char:EOLhyphen"/>neſs; and if you pleaſe you may put in Fruit, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> though it be not uſual.</p>
+               </div>
+               <div type="section">
+                  <pb facs="tcp:33519:9" rendition="simple:additions"/>
+                  <head>To make an Oyſter-Pye.</head>
+                  <p>Your Coffin or Cruſt being raiſed, lay a lay of Butter; and then having parboiled your Oy<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ters, put them in order, and over them another <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aying of Butter, with ſome Pepper and Nutmeg; and ſo cloſe up the lid.</p>
+               </div>
+               <div type="section">
+                  <head>To make a Beef-Paſty appear like Veniſon.</head>
+                  <p>Take your Beef indifferently lean, beat it in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lces with a Roaling-pin, with ſome ſweet Herbs <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>all ſhread; then lay it in Pepper and Salt a light and a day; after which lay it in the coffin, and over it Butter or Marrow; then add, to keep it moiſt, a ſmall quantity of Claret, and it will be perfect, ſhort and red, like Veniſon, as has been proved.</p>
+               </div>
+               <div type="section">
+                  <head>A Gooſe-Pye, to make.</head>
+                  <p>Obſerve to take a fat Gooſe, take out the Breaſt<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>one, and as many other bones as you can con<g ref="char:EOLhyphen"/>veniently: flat and beat the Carkaſs with your Roaler into the beſt form, then with Pepper and Salt powder it: lay then a laying of Butter at the bottom, on which place the Gooſe and a cou<g ref="char:EOLhyphen"/>ple of Rabits, if you think fit; and ſprinkling them with Pepper, lay on more Butter, and cloſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it up.</p>
+               </div>
+               <div type="section">
+                  <pb facs="tcp:33519:10"/>
+                  <head>An Artichoke-Pye, to make.</head>
+                  <p>Take the bottoms of Artichokes boiled, lay under them a laying of Marrow, and the like over them; then a laying of Dates, Raiſins an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Currans, and cloſe it up.</p>
+               </div>
+               <div type="section">
+                  <head>An Eel-Pye in the <hi>French</hi> faſhion.</head>
+                  <p>Take large ſilver Eels, ſtrip and cleanſe them<g ref="char:punc">▪</g> cutting them in convenient lengths; Salt an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Pepper them, and ſhread a good quantity <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſweet Herbs: mix the Herbs with the Powder of Cinamon, and ſome beaten Cloves; ſo lay them in order upon a laying of Butter, and cloſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> them up.</p>
+               </div>
+               <div type="section">
+                  <head>A Neats-Tongue Pye, how to make.</head>
+                  <p>Take a couple of boiled Neats-Tongues, skin them well, and mince them with Marrow or Beeſ<g ref="char:EOLhyphen"/>ſuet; then add of Raiſins and Currans, each <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> pound; Butter the like quantity; and Malago<g ref="char:EOLhyphen"/>wine half a pint, making them up in order.</p>
+               </div>
+               <div type="section">
+                  <head>To make a Pippin, or any Apple-Tart.</head>
+                  <p>Take the Apples, pare them, cut them into four quarters, taking out the core, and lay on <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> laying of Sugar; place them in order; ſlice a<g ref="char:EOLhyphen"/>mongſt
+<pb facs="tcp:33519:10" rendition="simple:additions"/> them ſome Quinces and candied Lemon or Orange-peel; and covering them again with Sugar, lid it up.</p>
+               </div>
+               <div type="section">
+                  <head>A Cuſtard, the <hi>French</hi> faſhion.</head>
+                  <p>Take Cream two quarts, Saffron diſſolved <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rained a dram, Canary half a pint, Roſe-w<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>alf a quarter, and Loaf-ſugar a pound: <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> them well, and put them into the coffin.</p>
+               </div>
+               <div type="section">
+                  <head>Goosberry-Tarts, Plumb-Tarts, <hi>&amp;c.</hi> how to Fill.</head>
+                  <p>Take your Goosberrys or Plumbs green, ſto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> them, if you may conveniently, ſoak them in S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ar and Water, and after place them on a layin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of Sugar, and cover them with the like: and ſo you may do by any ſuch-like Fruits.</p>
+                  <p>Broths and Jellies being wonderfull uſefull, I ſhall ſay ſomething of them.</p>
+               </div>
+               <div type="section">
+                  <head>Jelly of Calves-feet, to make.</head>
+                  <p>Take Calves-feet, without the bones, and boil <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hem in a quart of White-wine, and a quart of Mutton-broth, till a third part be conſumed: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reſs out the liquid part, and ſeaſon it with Cina<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on and Sugar.</p>
+               </div>
+               <div type="section">
+                  <pb facs="tcp:33519:11"/>
+                  <head>Cock-Broth, how to make it.</head>
+                  <p>Take a Cock of a year old, pull and draw him, beat him then with the Roaler, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſoning him with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>alt and a little Pepper: put him into two gal<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ns of Mutton-broth, adding a quart of French <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arley, and with beaten Nutmeg, Mace, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eet Herbs; boil it till it will become like <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>elly, when cold.</p>
+               </div>
+               <div type="section">
+                  <head>China-Broth, to make.</head>
+                  <p>Take a gallon of Running-water, boil in it a Cock chick till it is maſh; then add Raiſins, Li<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oriſh, French Barley and beaten Cloves, and ſtrain out the liquid part for your uſe.</p>
+               </div>
+               <div type="section">
+                  <head>Jelly of Harts-horn, to make it.</head>
+                  <p>Take the ſhavings of that Horn, four ounces; ſteep and boil it in a gallon of Water; ſtrain it, and add chop't Roſemary, the Whites of Eggs<g ref="char:punc">▪</g> Roſe-water and Sugar, and bring them up toge<g ref="char:EOLhyphen"/>ther, ſuffer them to ſtand till cold.</p>
+               </div>
+               <div type="section">
+                  <head>A Reſtoring Ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dle, to make.</head>
+                  <p>Take four Eggs, a dram of Saffron, half a pint of Canary, ſix Dates, a pint of Cream, two oun<g ref="char:EOLhyphen"/>ces of Loaf-ſugar, and an ounce of Licoriſh-pow<g ref="char:EOLhyphen"/>der: boil them together.</p>
+               </div>
+               <div type="section">
+                  <pb facs="tcp:33519:11" rendition="simple:additions"/>
+                  <head>To Pickle Cucumbers, Broom-buds, Aſh-keys, Grapes, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Plumbs, French-Beans, Barberries, Muſhrooms, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Sampher, and the like: take the following Rule.</head>
+                  <p>Get a ſufficient quantity of good Wine-Vine<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r, boil it and ſcum it till no more ſcum ariſe; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dding to it a handfull or two of Spaniſh-Salt, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>loves, Mace, Ginger, Cinamon, Dill and Cori<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nder-ſeed, with whole Pepper and a piece of Al<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m, and putting any of the things before-men<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oned, or any other things uſually Pickled, and it will preſerve them green and ſound: or for Bar<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erries and Sampher, you may put Salt and Wa<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r only.</p>
+                  <p>As for the decent Management of a Table, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bſerve that the Boiled Meats be preſented firſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Courſe, the Roaſted next, and the Baked after <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hem; and laſtly, Pyes, Tarts, and Diſhes of Fruit <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r Sweet-meats; ever taking notice to place the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Diſhes with the right end-forward, towards the upper end of the Table; The head-end of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>owl, Coneys, Pigs, Fiſh, <hi>&amp;c.</hi> being the right <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nds; And of Joynts of Meat, the Butt or great End; and of Piggs, the picked Ends, according <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o their frame or faſhion.</p>
+                  <p>To diſmember a Hern, Take off both the Legs, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd lacing it down the Breaſt, raiſe the fleſh, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ake it clean off, placing the Wings that they may <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>et.</p>
+                  <pb facs="tcp:33519:12"/>
+                  <p>To unbrace a Mallard, Raiſe up the Pinion a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the Leg, not taking them off; Raiſe the Mer<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> thought from the Breaſt, and lace it down ſlo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> wiſe with a Knife; the beſt piece being th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Wing.</p>
+                  <p>To unlace a Coney, Draw the Knife do<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> wards, cut off the flaps of the Belly, and take <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Shoulders, Legs, and divide the Body in fo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> parts; the beſt piece to preſent, being held th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> next to the Tail.</p>
+                  <p>To Rear a Gooſe, The Leg muſt be opene<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Wings divided, and the Breaſt laced dow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Body, after they are taken off to be divided <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the beſt piece is the Merry-thought.</p>
+                  <p>A Buſtard or Turkey muſt be uſed as th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Gooſe; and indeed it is a way now in uſe for a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> manner of Fowl, eſpecially Tame ones; the Me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ry-thought and Legs of which are accounted th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> beſt piece to preſent, as the Wings of all Wild fowl are on the contrary. In Fiſh, that part ne<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> to the Head is the beſt: And in Fleſh, the middl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of the Loin, Breaſt, Neck, and inſide of the Leg or Shoulder, and in other pieces, that which i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> lean and fat, as fancy or diſcretion may eaſily direct.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb facs="tcp:33519:12" rendition="simple:additions"/>
+               <head>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Art of Conſerving, Preſerving, Candy<g ref="char:EOLhyphen"/>ing and Beautifying, <hi>&amp;c.</hi>
+               </head>
+               <p>TO Conſerve any Fruits, Herbs, Flowers or Roots, Take a like quantity of them, as of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gar; ſtamp them in a Mortar, and put them <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> cold in a Glaſs or Gally-pot, keeping it from <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Air, and they will retain their taſte and co<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur a twelvemonth.</p>
+               <p>Preſerving is no other then to take Fruits, Flow<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, or the like, and ſcalding them over a gentle <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, with or without the ſtones, in a Preſerving<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an, and then the Sugar to the like quantity diſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olved, put hot to them, with a ſmall quantity of Water or Quidany of the Fruit, and ſtopping them <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>loſe up.</p>
+               <p>Candying is when the Fruits are prepared <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reen, and ſomewhat hard, the Sugar being melt<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in the Pan to a hardneſs or candy, they are dip<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed into them: As for Example.</p>
+               <div type="section">
+                  <head>To Conſerve Roſes.</head>
+                  <p>Take off the Flower, or Red part, put them to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eep in Water or White-wine; then ſtamp them <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o a moiſture, and put of the beſt Sugar to the weight of the Roſes, making them up into a Conſerve for your uſe.</p>
+               </div>
+               <div type="section">
+                  <pb facs="tcp:33519:13" rendition="simple:additions"/>
+                  <head>To Preſerve Cherries.</head>
+                  <p>Take Cherries, not too ripe, and having bo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> up your Sugar with the Quidany or Pulp of oth<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Cherries; and having made it very hot, pu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Cherries in, Stalks and all: Some there are <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſtone them, but I hold it not neceſſary.</p>
+               </div>
+               <div type="section">
+                  <head>The Art of Candying Plumbs.</head>
+                  <p>Take Plumbs but indifferently ripe, or ſom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> what inclining to greeniſh; and having made Candy of Sugar, after you have ſoftned them <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſcalding, dip them in, or let them lay a whil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> they will take the Sugar, and keep in a perfe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Candy all the year, if well dried.</p>
+               </div>
+               <div type="section">
+                  <head>An Excellent Beautifying-Waſh to make the Face an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Hands fair, and take out any Spots or Deformit<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> in the Skin.</head>
+                  <p>Take of Allom powder an ounce, Benjamine water a pint, the Flower of Roſemary a handfu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Scabeous-water half a pint, Bean-flower a hand full, Copras half an ounce: heat and mix the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> over a fire, and by often uſing you will find th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> wonderous effects.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
